@@ -37,7 +37,7 @@ This repository documents a real hardware upgrade of a Lenovo IdeaPad Gaming 3 1
 
 ## Current status
 
-The bottom cover has been removed, the RAM area has been exposed, and the internal battery has been physically removed before installing the new RAM and SSD.
+Hardware installation is now complete: the original 8 GB RAM has been replaced with a matched 32 GB (2 x 16 GB) Timetec DDR4-3200 kit, and the KingSpec NX Series 1 TB M.2 2280 NVMe SSD has been installed. The next milestone is reassembly, first boot, and Windows validation.
 
 ## Documentation
 
