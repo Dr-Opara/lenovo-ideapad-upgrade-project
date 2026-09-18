@@ -37,6 +37,18 @@ The new KingSpec SSD must be installed in the correct M.2 slot and secured with 
 
 Do not force an M.2 NVMe SSD into unrelated storage connectors.
 
+## Installation milestone completed
+
+The KingSpec NX Series 1 TB M.2 2280 NVMe SSD has now been physically installed in the laptop.
+
+Observed from the installation photo:
+- the drive is seated in the M.2 connector
+- the drive is lying flat in the 2280 position
+- the retaining screw is installed at the end of the drive
+- the original system storage remains in place
+
+Installation photo captured: completed KingSpec 1 TB NVMe installation.
+
 ## Windows initialization
 
 If Windows does not immediately show the new SSD in File Explorer:
