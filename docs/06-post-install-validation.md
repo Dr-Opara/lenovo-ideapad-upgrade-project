@@ -58,3 +58,17 @@ Capture before/after results for:
 - application launch times
 - SSD sequential read/write performance
 - multitasking performance
+
+
+## File Explorer validation completed
+
+The new KingSpec 1 TB SSD is now fully initialized, formatted, assigned drive letter **D:**, and visible in Windows File Explorer.
+
+Observed final storage layout:
+
+- **1TB SSD (D:)** — 953 GB free of 953 GB
+- **Windows-SSD (C:)** — 140 GB free of 475 GB
+
+This confirms that both internal NVMe drives are active at the same time and that the original Windows installation remains intact on the Samsung system SSD.
+
+Status: **SSD upgrade successfully validated in Windows.**
