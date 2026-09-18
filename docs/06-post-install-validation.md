@@ -72,3 +72,19 @@ Observed final storage layout:
 This confirms that both internal NVMe drives are active at the same time and that the original Windows installation remains intact on the Samsung system SSD.
 
 Status: **SSD upgrade successfully validated in Windows.**
+
+
+## RAM validation completed
+
+Windows Task Manager successfully detected the upgraded memory configuration:
+
+- Installed memory: 32.0 GB DDR4
+- Usable memory: 31.8 GB
+- Speed: 3200 MT/s
+- Slots used: 2 of 2
+- Form factor: SODIMM
+- Hardware reserved: 217 MB
+
+This confirms that both Timetec 16 GB modules are installed correctly and operating at the expected DDR4-3200 speed.
+
+Status: **RAM upgrade successfully validated in Windows.**
