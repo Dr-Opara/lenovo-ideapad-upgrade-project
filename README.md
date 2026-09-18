@@ -57,3 +57,16 @@ Photos from the upgrade will be organized under:
 ## Safety note
 
 Power the laptop off fully, unplug the charger, and disconnect/remove the internal battery before installing or removing RAM or storage devices.
+
+
+## Final validation
+
+Windows validation confirms:
+
+- 32.0 GB DDR4 detected
+- 3200 MT/s memory speed
+- 2 of 2 RAM slots populated
+- 1 TB secondary NVMe SSD available as D:
+- original Windows SSD remains intact as C:
+
+The RAM and SSD upgrade is now functionally complete.
