@@ -64,6 +64,17 @@ A photo of the new Timetec modules was captured before installation and will be 
 - Total: 32 GB
 - Expected memory speed: DDR4-3200 / 3200 MT/s, subject to system firmware configuration
 
+## Installation milestone completed
+
+Both Timetec 16 GB modules have now been physically installed in the laptop's two SODIMM slots.
+
+Observed from the installation photo:
+- both RAM slots are populated
+- both modules appear fully seated and retained by the side clips
+- final installed capacity should be 32 GB total
+
+Installation photo captured: completed 2 x 16 GB RAM installation.
+
 ## Post-install verification
 
 After reassembly and boot:
